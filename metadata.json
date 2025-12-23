@@ -1,0 +1,5 @@
+{
+  "name": "ReviewIQ - AI Review Analyzer",
+  "description": "An AI-powered Micro SaaS to automatically analyze customer reviews into sentiment trends and actionable feedback using Gemini.",
+  "requestFramePermissions": []
+}
